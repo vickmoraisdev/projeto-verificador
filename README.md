@@ -45,7 +45,6 @@ Durante o desenvolvimento deste projeto, pratiquei:
 ![Preview do projeto](https://github.com/user-attachments/assets/37124477-4a0a-4611-8b24-383030aff4c1)
 
 
-## 👩‍💻 Desenvolvido por
-
-Vitória de Morais  
-[@vickmoraisdev](https://github.com/vickmoraisdev)
+## Feito com 💜 por Vitória de Morais
+ 
+GitHub: [@vickmoraisdev](https://github.com/vickmoraisdev)
